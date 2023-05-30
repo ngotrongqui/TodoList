@@ -1,6 +1,6 @@
 import React, { PureComponent } from "react";
 import Header from "./components/Header";
-import Content from "./components/Content.js";
+import Content from "./components/Content";
 import TodoList from "./components/TodoList";
 import "../src/App.css";
 
